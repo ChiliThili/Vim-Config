@@ -1,0 +1,7 @@
+require('plugins.plugin_config.colorscheme')
+require('plugins.plugin_config.lsp')
+require('plugins.plugin_config.fugitive')
+require('plugins.plugin_config.telescope')
+require('plugins.plugin_config.harpoon')
+require('plugins.plugin_config.treesitter')
+require('plugins.plugin_config.autoclose')
